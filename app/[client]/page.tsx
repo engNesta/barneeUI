@@ -27,7 +27,7 @@ const clientConfig = {
   },
 
   gpa: {
-    title: "Välkommen till UICreator Assistent",
+    title: "Välkommen till Gpa Assistent",
     subtitle: "Ställ dina frågor",
     chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator",
     backgroundImage: "/images/gpa-bg.png",
