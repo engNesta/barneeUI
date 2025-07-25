@@ -1,0 +1,7 @@
+{
+  "title": "Välkommen till Aprobo Assistent",
+  "subtitle": "Ställ dina frågor",
+  "chatEndpoint": "https://my-first-rag-app.onrender.com/ask/aprobo",
+  "backgroundImage": "aprobo-bg.png",
+  "ctaText": "Kontakta mig"
+}

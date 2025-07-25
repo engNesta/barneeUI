@@ -1,0 +1,7 @@
+{
+  "title": "Välkommen till Stim Assistent",
+  "subtitle": "Ställ dina frågor",
+  "chatEndpoint": "https://my-first-rag-app.onrender.com/ask/stim",
+  "backgroundImage": "stim-bg.png",
+  "ctaText": "Kontakta mig"
+}
