@@ -33,6 +33,14 @@ const clientConfig = {
     backgroundImage: "/images/gpa-bg.png",
     ctaText: "Fråga",
   },
+
+  layher: {
+    title: "Välkommen till layher Assistent",
+    subtitle: "Ställ dina frågor",
+    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator",
+    backgroundImage: "/images/layher-bg.png",
+    ctaText: "Fråga",
+  },
 };
 
 export default function ClientPage() {
