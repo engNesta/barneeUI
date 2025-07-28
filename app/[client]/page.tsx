@@ -106,7 +106,7 @@ const clientConfig = {
     ctaText: "Fråga",
   },
 
-  Jämställdhetsmyndigheten: {
+  Jamstalldhetsmyndigheten: {
     title: "Välkommen till Jämställdhetsmyndigheten Assistent",
     subtitle: "Ställ dina frågor",
     chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
