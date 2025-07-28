@@ -57,6 +57,14 @@ const clientConfig = {
     backgroundImage: "/images/homeworx-bg.png",
     ctaText: "Fråga",
   },
+  
+  leifardvidsson: {
+    title: "Välkommen till Leif Arvidsson Assistent",
+    subtitle: "Ställ dina frågor",
+    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
+    backgroundImage: "/images/leifardvidsson-bg.png",
+    ctaText: "Fråga", 
+  },
 };
 
 export default function ClientPage() {
