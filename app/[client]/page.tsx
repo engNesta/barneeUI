@@ -89,6 +89,14 @@ const clientConfig = {
     backgroundImage: "/images/pipelife-bg.png",
     ctaText: "Fråga",
   },
+
+  wfi: {
+    title: "Välkommen till WFI Assistent",
+    subtitle: "Ställ dina frågor",      
+    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
+    backgroundImage: "/images/wfi-bg.png",
+    ctaText: "Fråga",
+  },
 };
 
 export default function ClientPage() {
