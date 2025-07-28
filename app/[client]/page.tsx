@@ -113,6 +113,14 @@ const clientConfig = {
     backgroundImage: "/images/jäm-bg.png",
     ctaText: "Fråga", 
   },
+
+  bellaresor: {
+    title: "Välkommen till Bella Resor Assistent",
+    subtitle: "Ställ dina frågor",
+    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
+    backgroundImage: "/images/bella-bg.png",
+    ctaText: "Fråga",
+  },
 };
 
 export default function ClientPage() {
