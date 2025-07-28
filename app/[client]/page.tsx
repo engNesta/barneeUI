@@ -97,6 +97,14 @@ const clientConfig = {
     backgroundImage: "/images/wfi-bg.png",
     ctaText: "Fråga",
   },
+
+  blomstryckeri: {
+    title: "Välkommen till Blomstryckeri Assistent",
+    subtitle: "Ställ dina frågor",
+    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
+    backgroundImage: "/images/bloms-bg.png",
+    ctaText: "Fråga",
+  },
 };
 
 export default function ClientPage() {
