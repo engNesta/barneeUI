@@ -29,7 +29,7 @@ const clientConfig = {
   gpa: {
     title: "Välkommen till Gpa Assistent",
     subtitle: "Ställ dina frågor",
-    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator",
+    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
     backgroundImage: "/images/gpa-bg.png",
     ctaText: "Fråga",
   },
@@ -37,8 +37,16 @@ const clientConfig = {
   layher: {
     title: "Välkommen till layher Assistent",
     subtitle: "Ställ dina frågor",
-    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator",
+    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
     backgroundImage: "/images/layher-bg.png",
+    ctaText: "Fråga",
+  },
+
+  packoplock: {
+    title: "Välkommen till Packoplock Assistent",
+    subtitle: "Ställ dina frågor",                  
+    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
+    backgroundImage: "/images/packoplock-bg.png",
     ctaText: "Fråga",
   },
 };
