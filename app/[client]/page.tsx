@@ -78,7 +78,7 @@ const clientConfig = {
     title: "Välkommen till OEM Automatic Assistent",
     subtitle: "Ställ dina frågor",
     chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
-    backgroundImage: "/images/oemautomatic-bg.png",
+    backgroundImage: "/images/oem-bg.png",
     ctaText: "Fråga",
   },
 };
