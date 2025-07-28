@@ -65,6 +65,14 @@ const clientConfig = {
     backgroundImage: "/images/leifarvidsson-bg.png",
     ctaText: "Fråga", 
   },
+  
+  weland: {
+    title: "Välkommen till Weland Assistent",
+    subtitle: "Ställ dina frågor",
+    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
+    backgroundImage: "/images/weland-bg.png",
+    ctaText: "Fråga",
+  },
 };
 
 export default function ClientPage() {
