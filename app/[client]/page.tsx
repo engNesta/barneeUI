@@ -35,7 +35,7 @@ const clientConfig = {
   },
 
   layher: {
-    title: "Välkommen till layher Assistent",
+    title: "Välkommen till Layher Assistent",
     subtitle: "Ställ dina frågor",
     chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
     backgroundImage: "/images/layher-bg.png",
@@ -47,6 +47,14 @@ const clientConfig = {
     subtitle: "Ställ dina frågor",                  
     chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
     backgroundImage: "/images/packoplock-bg.png",
+    ctaText: "Fråga",
+  },
+
+  homeworx: {
+    title: "Välkommen till Homeworx Assistent",
+    subtitle: "Ställ dina frågor",          
+    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
+    backgroundImage: "/images/homeworx-bg.png",
     ctaText: "Fråga",
   },
 };
