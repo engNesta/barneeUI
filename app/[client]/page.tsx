@@ -81,6 +81,14 @@ const clientConfig = {
     backgroundImage: "/images/oem-bg.png",
     ctaText: "Fråga",
   },
+
+  pipelife: {
+    title: "Välkommen till Pipelife Assistent",
+    subtitle: "Ställ dina frågor",
+    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/uicreator", // Adjust endpoint as needed
+    backgroundImage: "/images/pipelife-bg.png",
+    ctaText: "Fråga",
+  },
 };
 
 export default function ClientPage() {
