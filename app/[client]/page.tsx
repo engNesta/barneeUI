@@ -7,7 +7,7 @@ const clientConfig = {
   aprobo: {
     title: "Välkommen till Aprobo Assistent",
     subtitle: "Ställ dina frågor",
-    chatEndpoint: "https://my-first-rag-app.onrender.com/ask/aprobo",
+    chatEndpoint: "http://127.0.0.1:8000/ask/aprobo",
     backgroundImage: "/images/aprobo-bg.png",
     ctaText: "Skicka",
   },
