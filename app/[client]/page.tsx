@@ -5,11 +5,11 @@ import ChatAssistant from "@/components/ChatAssistant";
 
 const clientConfig = {
   aprobo: {
-    title: "Welcome to Aprobo Aprobo Assistent",
-    subtitle: "Ställ dina frågor",
+    title: "Welcome to Aprobo Aprobo Assistant",
+    subtitle: "Ask any question",
     chatEndpoint: "http://127.0.0.1:8000/ask/aprobo",
     backgroundImage: "/images/aprobo-bg.png",
-    ctaText: "Skicka",
+    ctaText: "Send",
   },
   stim: {
     title: "Välkommen till STIM Assistent",
